@@ -1,1 +1,1 @@
-Create your own bot: https://fortnitelobbybots.com
+Create your own Fortnite LobbyBot: https://fortnitelobbybots.com
